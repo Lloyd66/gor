@@ -2,8 +2,8 @@ package elasticsearch
 
 import (
 	"encoding/json"
-	"github.com/mattbaird/elastigo/api"
-	"github.com/mattbaird/elastigo/core"
+	"github.com/mattbaird/elastigo/tree/v1.0/api"
+	"github.com/mattbaird/elastigo/tree/v1.0/core"
 	"log"
 	"net/http"
 	"regexp"
