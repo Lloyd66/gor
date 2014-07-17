@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"bytes"
-	es "github.com/buger/gor/elasticsearch"
+	es "github.com/Lloyd66/gor/elasticsearch"
 	"io"
 	"log"
 	"net/http"
